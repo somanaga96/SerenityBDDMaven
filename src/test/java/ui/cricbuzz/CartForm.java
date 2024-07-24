@@ -1,4 +1,4 @@
-package ui;
+package ui.cricbuzz;
 
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;

@@ -11,7 +11,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-import ui.CricbuzzForm;
+import ui.cricbuzz.CricbuzzForm;
 import utils.action.Click;
 
 import java.util.List;

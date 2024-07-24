@@ -13,13 +13,13 @@ import net.serenitybdd.screenplay.questions.Text;
 import net.serenitybdd.screenplay.waits.WaitUntil;
 import org.hamcrest.Matchers;
 import org.openqa.selenium.WebDriver;
-import ui.CartForm;
-import ui.LogInForm;
+import ui.cricbuzz.CartForm;
+import ui.cricbuzz.LogInForm;
 import utils.action.Click;
 
 import static net.serenitybdd.screenplay.GivenWhenThen.seeThat;
 import static net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isVisible;
-import static ui.CartForm.ORDER_CONFIRMATION;
+import static ui.cricbuzz.CartForm.ORDER_CONFIRMATION;
 
 public class SearchStepDefinitions {
     @Managed
